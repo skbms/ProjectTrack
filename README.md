@@ -1,2 +1,2 @@
 # ProjectTrack
-Simple report tracking
+Simple project tracking, Budget, Actual etc for expenses 
